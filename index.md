@@ -55,3 +55,6 @@
 ### Mr Chinchaiyah
 
 - Rare seeds preservation near Bangalore: [https://m.timesofindia.com/city/bengaluru/scientist-has-preserved-142-seeds-from-25-countries-swears-by-natural-farming/amp_articleshow/58582717.cms](https://m.timesofindia.com/city/bengaluru/scientist-has-preserved-142-seeds-from-25-countries-swears-by-natural-farming/amp_articleshow/58582717.cms)
+
+### Bhoomi College
+- [x] [https://bhoomicollege.org](https://bhoomicollege.org)
