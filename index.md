@@ -25,18 +25,33 @@
 ### Permaculture
 - [x] [https://en.m.wikipedia.org/wiki/Permaculture](https://en.m.wikipedia.org/wiki/Permaculture)
 - [x] [https://permaorganic.com/2021/03/12/everything-to-know-about-permaculture-vs-agriculture/](https://permaorganic.com/2021/03/12/everything-to-know-about-permaculture-vs-agriculture/)
+
 ### Zero Budget Natural Farming
 - [x] [https://spnf.org.in/](https://spnf.org.in/)
+
 ### One Straw Revolution
 - [x] [https://www.arvindguptatoys.com/arvindgupta//onestraw.pdf](https://www.arvindguptatoys.com/arvindgupta//onestraw.pdf)
+
 ### Economy of Permanence
 - [x] [https://www.mkgandhi.org/ebks/economy-of-permanence.pdf](https://www.mkgandhi.org/ebks/economy-of-permanence.pdf)
+
 ### Small is beautiful
 - [x] [https://www.ee.iitb.ac.in/student/~pdarshan/SmallIsBeautifulSchumacher.pdf](https://www.ee.iitb.ac.in/student/~pdarshan/SmallIsBeautifulSchumacher.pdf)
 - [x] [https://en.m.wikipedia.org/wiki/Small_Is_Beautiful](https://en.m.wikipedia.org/wiki/Small_Is_Beautiful)
+
 ### Sadhana Forest
 - [x] [https://sadhanaforest.org](https://sadhanaforest.org)
+
 ### Cuckoo Children
 - [x] [http://cuckoochildren.in](http://cuckoochildren.in)
 - [x] [http://cuckoochildren.blogspot.com/2012/12/cuckoo-forest-dear-friends-welcome.html?m=1](http://cuckoochildren.blogspot.com/2012/12/cuckoo-forest-dear-friends-welcome.html?m=1)
 
+### GKVK
+[https://dbtncstcp.nic.in/University-of-Agricultural-Sciences-GKVK-Bangalore](https://dbtncstcp.nic.in/University-of-Agricultural-Sciences-GKVK-Bangalore)
+
+### Lalbagh 
+[https://en.m.wikipedia.org/wiki/Lal_Bagh](https://en.m.wikipedia.org/wiki/Lal_Bagh)
+
+### Mr Chinchaiyah
+
+- Rare seeds preservation near Bangalore: [https://m.timesofindia.com/city/bengaluru/scientist-has-preserved-142-seeds-from-25-countries-swears-by-natural-farming/amp_articleshow/58582717.cms](https://m.timesofindia.com/city/bengaluru/scientist-has-preserved-142-seeds-from-25-countries-swears-by-natural-farming/amp_articleshow/58582717.cms)
