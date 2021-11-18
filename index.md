@@ -59,3 +59,9 @@
 
 ### Bhoomi College
 - [x] [https://bhoomicollege.org](https://bhoomicollege.org)
+
+### Navdanya 
+[https://www.navdanya.org/site/](https://www.navdanya.org/site/)
+
+### Marutham Farm School
+[https://medium.com/@dipondeb/a-school-in-a-farm-marutham-farm-school-5644c44e2cb6](https://medium.com/@dipondeb/a-school-in-a-farm-marutham-farm-school-5644c44e2cb6)
