@@ -33,7 +33,7 @@
 - [x] [https://www.arvindguptatoys.com/arvindgupta//onestraw.pdf](https://www.arvindguptatoys.com/arvindgupta//onestraw.pdf)
 
 ### Economy of Permanence
-- [x] [https://www.mkgandhi.org/ebks/economy-of-permanence.pdf](https://www.mkgandhi.org/ebks/economy-of-permanence.pdf)
+- [x] [https://www.indianculture.gov.in/rarebooks/economy-permanence-quest-social-order-based-non-violence](https://www.indianculture.gov.in/rarebooks/economy-permanence-quest-social-order-based-non-violence)
 
 ### Small is beautiful
 - [x] [https://www.ee.iitb.ac.in/student/~pdarshan/SmallIsBeautifulSchumacher.pdf](https://www.ee.iitb.ac.in/student/~pdarshan/SmallIsBeautifulSchumacher.pdf)
